@@ -1,0 +1,2 @@
+quantum_exp_mean,quantum_exp_std,quantum_exp_best_case,quantum_exp_avg_time,quantum_cvar_mean,quantum_cvar_std,quantum_cvar_best_case,quantum_cvar_avg_time,classical_mean,classical_std,classical_best_case,classical_avg_time
+-0.0396626711617977,0.00615977550977355,-0.05056407716230288,3.5769940614700317,-0.05036565416039698,0.000981939201975253,-0.05056407716230288,2.3401339530944822,-0.052732333096749545,4.153996842829629e-07,-0.052732450217276114,0.002693071365356445

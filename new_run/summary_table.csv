@@ -1,0 +1,17 @@
+initialization,depth,objective,S95,avg_T95
+Hadamard,1,CVaR,0.0,132.8
+Hadamard,1,Expectation,0.05,128.25
+Hadamard,2,CVaR,0.2,45.25
+Hadamard,2,Expectation,0.6,21.0
+Hadamard,3,CVaR,0.2,39.6
+Hadamard,3,Expectation,0.45,28.15
+Hadamard,4,CVaR,0.35,8.35
+Hadamard,4,Expectation,0.6,8.15
+|0⟩,1,CVaR,0.05,124.15
+|0⟩,1,Expectation,0.1,86.25
+|0⟩,2,CVaR,0.1,64.45
+|0⟩,2,Expectation,0.5,37.55
+|0⟩,3,CVaR,0.25,41.05
+|0⟩,3,Expectation,0.45,20.55
+|0⟩,4,CVaR,0.4,5.55
+|0⟩,4,Expectation,0.45,7.1
